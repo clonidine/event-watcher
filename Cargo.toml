@@ -1,0 +1,11 @@
+[package]
+name = "learning"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dotenv = "0.15.0"
+inotify = "0.10.2"
+termion = "2.0.0"
